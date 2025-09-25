@@ -3,9 +3,7 @@ streamlit
 matplotlib 
 seaborn
 datetime
-os
-sys
 threading
 time
-
 numpy
+
