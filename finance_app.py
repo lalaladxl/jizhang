@@ -10,6 +10,12 @@ import sys
 import time
 import numpy as np
 
+# 设置页面配置，优化移动端显示
+st.set_page_config(
+    page_title="账本",
+    layout="centered"  # 或 "centered"
+)
+
 # ===================== 中文字体支持配置 =====================
 def setup_chinese_font_support():
     """配置Matplotlib支持中文显示"""
