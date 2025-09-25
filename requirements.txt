@@ -1,4 +1,4 @@
-pandas as pd
+pandas
 streamlit
 matplotlib 
 seaborn
@@ -7,4 +7,5 @@ os
 sys
 threading
 time
+
 numpy
