@@ -1,6 +1,6 @@
 pandas
 streamlit
-matplotlib
+matplotlib>=3.9.2
 seaborn
 datetime
 os
@@ -8,3 +8,4 @@ sys
 threading
 time
 numpy
+
