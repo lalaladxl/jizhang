@@ -1,0 +1,10 @@
+pandas as pd
+streamlit
+matplotlib 
+seaborn
+datetime
+os
+sys
+threading
+time
+numpy
