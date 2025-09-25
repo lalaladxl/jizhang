@@ -1,11 +1,12 @@
-pandas
-streamlit
+pandas=2.3.1
+streamlit=1.47
 matplotlib>=3.9.2
-seaborn
+seaborn=0.13.2
 datetime
 os
 sys
 threading
 time
 numpy
+
 
